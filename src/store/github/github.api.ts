@@ -1,4 +1,3 @@
-import { build } from '@reduxjs/toolkit/dist/query/core/buildMiddleware/cacheLifecycle';
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 import { IRepos, IUser, ServerResponse } from 'models/models';
